@@ -9,7 +9,7 @@ Dobrovolník + místo + projekty + děti = kluby kódování
 
 Projekt je expanzí https://www.codeclub.org.uk/ do České republiky
 
-V první fázi překládám projekty z http://projects.codeclubworld.org/. Jedná se o dvě pololetí se Sratchem - zatím přeloženo první, další na řadu přijdou HTML/CSS a Python.
+V první fázi překládám projekty z http://projects.codeclubworld.org/. Jedná se o dvě pololetí se Sratchem - zatím přeloženo první, další na řadu přijdou HTML/CSS a Python. Pokud chcete mít přístup k pracovní verzi překladů, tak tu najdete zde: http://cc.pidibi.com/cs-CZ/index.html
 
 ## Kdo
 
